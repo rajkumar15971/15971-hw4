@@ -3,8 +3,8 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="author" name="Abhilash Reddy Musku - 17707ma"/>
-<title>HTML5 Registration and NewsLetter Form with WebSQL - 17707ma - Abhilash Reddy Musku</title>
+<meta name="author" name="Rajkumar Thadem 15971tr"/>
+<title>HTML5 Registration and NewsLetter Form with WebSQL -15971tr - rajkumar thadem</title>
 <!--CSS StyleSheet!-->
 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 <link href="17707ma-hw3-cs557b.css" rel="stylesheet">
@@ -48,6 +48,6 @@
 </div>
 </body>
   <!--JavaScript!-->
-<script src="17707ma-hw3-cs557b.js"></script>
+<script src="15971tr.js"></script>
 <!--JavaScript!-->
 </html>
